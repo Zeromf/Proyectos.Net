@@ -1,0 +1,6 @@
+C:\Users\Enzo\Documents\Visual Studio 2012\Projects\TrabajoIntegrador\StateEjemplo\bin\Debug\StateEjemplo.exe.config
+C:\Users\Enzo\Documents\Visual Studio 2012\Projects\TrabajoIntegrador\StateEjemplo\bin\Debug\StateEjemplo.exe
+C:\Users\Enzo\Documents\Visual Studio 2012\Projects\TrabajoIntegrador\StateEjemplo\bin\Debug\StateEjemplo.pdb
+C:\Users\Enzo\Documents\Visual Studio 2012\Projects\TrabajoIntegrador\StateEjemplo\obj\Debug\StateEjemplo.csprojResolveAssemblyReference.cache
+C:\Users\Enzo\Documents\Visual Studio 2012\Projects\TrabajoIntegrador\StateEjemplo\obj\Debug\StateEjemplo.exe
+C:\Users\Enzo\Documents\Visual Studio 2012\Projects\TrabajoIntegrador\StateEjemplo\obj\Debug\StateEjemplo.pdb

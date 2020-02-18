@@ -1,0 +1,33 @@
+C:\Documents and Settings\Enzo\Configuración local\Datos de programa\Temporary Projects\TrabajoIntegrador\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Enzo\Configuración local\Datos de programa\Temporary Projects\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Documents and Settings\Enzo\Configuración local\Datos de programa\Temporary Projects\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Documents and Settings\Enzo\Configuración local\Datos de programa\Temporary Projects\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Documents and Settings\Enzo\Configuración local\Datos de programa\Temporary Projects\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Documents and Settings\Enzo\Mis documentos\Visual Studio 2008\Projects\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Documents and Settings\Enzo\Mis documentos\Visual Studio 2008\Projects\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Enzo\Documents\Visual Studio 2012\Projects\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Enzo\Documents\Visual Studio 2012\Projects\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Enzo\Documents\Visual Studio 2012\Projects\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Enzo\Documents\Visual Studio 2012\Projects\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Enzo\Documents\Visual Studio 2012\Projects\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+H:\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+H:\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Alumnos-Unaj\Desktop\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\Alumnos-Unaj\Desktop\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Users\Alumnos-Unaj\Desktop\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
+D:\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojAssemblyReference.cache
+D:\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csproj.CoreCompileInputs.cache
+D:\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+D:\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+D:\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+D:\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+D:\Nueva carpeta\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+D:\Nueva carpeta\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+D:\Nueva carpeta\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojAssemblyReference.cache
+D:\Nueva carpeta\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+D:\Nueva carpeta\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\Enzo\Desktop\Patrones para el segundo parcial\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\Enzo\Desktop\Patrones para el segundo parcial\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb

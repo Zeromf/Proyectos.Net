@@ -1,0 +1,16 @@
+C:\Documents and Settings\Enzo\Mis documentos\SharpDevelop Projects\Trabajo Integrador\Sistemas Micritos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Enzo\Mis documentos\SharpDevelop Projects\Trabajo Integrador\Sistemas Micritos\bin\Debug\Sistemas Micritos.exe
+C:\Documents and Settings\Enzo\Mis documentos\SharpDevelop Projects\Trabajo Integrador\Sistemas Micritos\bin\Debug\Sistemas Micritos.pdb
+C:\Documents and Settings\Enzo\Mis documentos\SharpDevelop Projects\Trabajo Integrador\Sistemas Micritos\obj\Debug\Sistemas Micritos.exe
+C:\Documents and Settings\Enzo\Mis documentos\SharpDevelop Projects\Trabajo Integrador\Sistemas Micritos\obj\Debug\Sistemas Micritos.pdb
+C:\Users\Enzo\Documents\SharpDevelop Projects\Trabajo Integrador\Sistemas Micritos\obj\Debug\Sistemas Micritos.csprojResolveAssemblyReference.cache
+C:\Users\Enzo\Documents\SharpDevelop Projects\Trabajo Integrador\Sistemas Micritos\obj\Debug\Sistemas Micritos.exe
+C:\Users\Enzo\Documents\SharpDevelop Projects\Trabajo Integrador\Sistemas Micritos\obj\Debug\Sistemas Micritos.pdb
+C:\Users\Enzo\Documents\SharpDevelop Projects\Trabajo Integrador\Sistemas Micritos\bin\Debug\Sistemas Micritos.exe
+C:\Users\Enzo\Documents\SharpDevelop Projects\Trabajo Integrador\Sistemas Micritos\bin\Debug\Sistemas Micritos.pdb
+C:\Users\Enzo\Documents\Proyectos\Trabajo Integrador(POO)\Sistemas Micritos\bin\Debug\Sistemas Micritos.exe
+C:\Users\Enzo\Documents\Proyectos\Trabajo Integrador(POO)\Sistemas Micritos\bin\Debug\Sistemas Micritos.pdb
+C:\Users\Enzo\Documents\Proyectos\Trabajo Integrador(POO)\Sistemas Micritos\obj\Debug\Sistemas Micritos.csprojAssemblyReference.cache
+C:\Users\Enzo\Documents\Proyectos\Trabajo Integrador(POO)\Sistemas Micritos\obj\Debug\Sistemas Micritos.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Documents\Proyectos\Trabajo Integrador(POO)\Sistemas Micritos\obj\Debug\Sistemas Micritos.exe
+C:\Users\Enzo\Documents\Proyectos\Trabajo Integrador(POO)\Sistemas Micritos\obj\Debug\Sistemas Micritos.pdb

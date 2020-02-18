@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{661AC543-9C9F-4EEF-8046-4919D1B780B2}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TrabajoIntegrador</RootNamespace>
+    <AssemblyName>TrabajoIntegrador</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractFactory\Cuarteles\CentralElectrica.cs" />
+    <Compile Include="AbstractFactory\Cuarteles\Comisaria.cs" />
+    <Compile Include="AbstractFactory\Cuarteles\CuartelDeBomberos.cs" />
+    <Compile Include="AbstractFactory\Fabricas\FabricaDeBombero.cs" />
+    <Compile Include="AbstractFactory\Fabricas\FabricaDeElectricista.cs" />
+    <Compile Include="AbstractFactory\Fabricas\FabricaDeMedico.cs" />
+    <Compile Include="AbstractFactory\Fabricas\FabricaDePolicia.cs" />
+    <Compile Include="AbstractFactory\Fabricas\IFabricaDeHeroe.cs" />
+    <Compile Include="AbstractFactory\Herramientas\Buscapolo.cs" />
+    <Compile Include="AbstractFactory\Cuarteles\Hospital.cs" />
+    <Compile Include="AbstractFactory\Cuarteles\ICuartel.cs" />
+    <Compile Include="AbstractFactory\MainAbstract.cs" />
+    <Compile Include="AbstractFactory\Vehiculos\Ambulancia.cs" />
+    <Compile Include="AbstractFactory\Vehiculos\Autobomba.cs" />
+    <Compile Include="AbstractFactory\Vehiculos\Camioneta.cs" />
+    <Compile Include="AbstractFactory\Herramientas\Desfibrilador.cs" />
+    <Compile Include="AbstractFactory\Herramientas\IHerramienta.cs" />
+    <Compile Include="AbstractFactory\Vehiculos\IVehiculo.cs" />
+    <Compile Include="AbstractFactory\Herramientas\Manguera.cs" />
+    <Compile Include="AbstractFactory\Vehiculos\Patrullero.cs" />
+    <Compile Include="AbstractFactory\Herramientas\Pistola.cs" />
+    <Compile Include="Adapter\AdapterPasserbyToInfartable.cs" />
+    <Compile Include="Adapter\MainAdapter.cs" />
+    <Compile Include="Adapter\Passerby.cs" />
+    <Compile Include="Builder\AbstractBuilder.cs" />
+    <Compile Include="Builder\BuilderDesfavorable.cs" />
+    <Compile Include="Builder\BuilderFavorable.cs" />
+    <Compile Include="Builder\BuilderMixto.cs" />
+    <Compile Include="Builder\BuilderSimple.cs" />
+    <Compile Include="Builder\Director.cs" />
+    <Compile Include="Builder\MainBuilder.cs" />
+    <Compile Include="ChainofResponsibility\DenunciaDeInfarto.cs" />
+    <Compile Include="ChainofResponsibility\DenunciaDeLamparaQuemada.cs" />
+    <Compile Include="ChainofResponsibility\DenunciaDeRobo.cs" />
+    <Compile Include="ChainofResponsibility\MainChain.cs" />
+    <Compile Include="ChainofResponsibility\Operador911.cs" />
+    <Compile Include="Command\ComandoAlto.cs" />
+    <Compile Include="Command\Comand.cs" />
+    <Compile Include="Command\ComandoPerseguir.cs" />
+    <Compile Include="Command\ComandoRefuerzos.cs" />
+    <Compile Include="Command\DarAlto.cs" />
+    <Compile Include="Command\MainCommand.cs" />
+    <Compile Include="Command\Perseguir.cs" />
+    <Compile Include="Command\Refuerzos.cs" />
+    <Compile Include="Composite\composite.cs" />
+    <Compile Include="Composite\IILuminable.cs" />
+    <Compile Include="Composite\MainComposite.cs" />
+    <Compile Include="DecoratorPrueba\ArbolesGrandesDecorator.cs" />
+    <Compile Include="DecoratorPrueba\GenteAsustadaDecorator.cs" />
+    <Compile Include="DecoratorPrueba\ISector.cs" />
+    <Compile Include="DecoratorPrueba\Decorator.cs" />
+    <Compile Include="DecoratorPrueba\DiaLluviosoDecorator.cs" />
+    <Compile Include="DecoratorPrueba\DiaVentosoDecorator.cs" />
+    <Compile Include="DecoratorPrueba\Main.cs" />
+    <Compile Include="DecoratorPrueba\MainDecorator.cs" />
+    <Compile Include="DecoratorPrueba\MuchoCalorDecorator.cs" />
+    <Compile Include="DecoratorPrueba\PastoSecoDecorator.cs" />
+    <Compile Include="DecoratorPrueba\Sector.cs" />
+    <Compile Include="FactoryMethod\FactoryArbolesGrandes.cs" />
+    <Compile Include="FactoryMethod\FactoryDiaLluvioso.cs" />
+    <Compile Include="FactoryMethod\FactoryDiaVentoso.cs" />
+    <Compile Include="FactoryMethod\FactoryGenteAsustada.cs" />
+    <Compile Include="FactoryMethod\FactoryMuchoCalor.cs" />
+    <Compile Include="FactoryMethod\FactoryPastoSeco.cs" />
+    <Compile Include="FactoryMethod\FactorySectores.cs" />
+    <Compile Include="FactoryMethod\MainFM.cs" />
+    <Compile Include="iterator\BomberoSecretario.cs" />
+    <Compile Include="iterator\DenunciasDeIncendio.cs" />
+    <Compile Include="iterator\DenunciasPorTablero.cs" />
+    <Compile Include="iterator\DenunciasPorMostrador.cs" />
+    <Compile Include="iterator\DenunciasPorWhatsApp.cs" />
+    <Compile Include="iterator\IDenuncia.cs" />
+    <Compile Include="iterator\IDenuncias.cs" />
+    <Compile Include="iterator\IResponsable.cs" />
+    <Compile Include="iterator\Iterator.cs" />
+    <Compile Include="iterator\IterDenunciaPorMostrador.cs" />
+    <Compile Include="iterator\IterDenunciaPorTablero.cs" />
+    <Compile Include="iterator\IterDenunciaPorWhatsApp.cs" />
+    <Compile Include="iterator\MainIterator.cs" />
+    <Compile Include="iterator\MensajeWhatsApp.cs" />
+    <Compile Include="Lugares\Calle.cs" />
+    <Compile Include="Lugares\Casa.cs" />
+    <Compile Include="Lugares\Esquina.cs" />
+    <Compile Include="Heroes\Bombero.cs" />
+    <Compile Include="Heroes\Electricista.cs" />
+    <Compile Include="Heroes\Mecanico.cs" />
+    <Compile Include="Heroes\Medico.cs" />
+    <Compile Include="Heroes\Policia.cs" />
+    <Compile Include="Lugares\ILugar.cs" />
+    <Compile Include="Lugares\IPatrullable.cs" />
+    <Compile Include="Lugares\Plaza.cs" />
+    <Compile Include="HeroesDeCiudad.cs" />
+    <Compile Include="Observer\IObservado.cs" />
+    <Compile Include="Observer\IObservador.cs" />
+    <Compile Include="Observer\MainObserver.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proxy\BomberoProxy.cs" />
+    <Compile Include="Proxy\ElectricistaProxy.cs" />
+    <Compile Include="Proxy\MainProxy.cs" />
+    <Compile Include="Proxy\MedicoProxy.cs" />
+    <Compile Include="Proxy\PoliciaProxy.cs" />
+    <Compile Include="Singleton\Main.cs" />
+    <Compile Include="State\Apagado.cs" />
+    <Compile Include="State\ATodaVelocidad.cs" />
+    <Compile Include="State\MainState.cs" />
+    <Compile Include="State\MarchaLenta.cs" />
+    <Compile Include="State\MediaMarcha.cs" />
+    <Compile Include="State\PuntoMuerto.cs" />
+    <Compile Include="State\Roto.cs" />
+    <Compile Include="State\state.cs" />
+    <Compile Include="State\Vehiculo.cs" />
+    <Compile Include="Strategy\IStrategyApagado.cs" />
+    <Compile Include="Strategy\MainStrategy.cs" />
+    <Compile Include="Strategy\StrategiaDeApagadoEspiral.cs" />
+    <Compile Include="Strategy\StrategiaDeApagadoEscalera.cs" />
+    <Compile Include="Strategy\StrategiaDeApagadoSecuencial.cs" />
+    <Compile Include="TemplateMethod\IInfartable.cs" />
+    <Compile Include="TemplateMethod\MainTemplate.cs" />
+    <Compile Include="TemplateMethod\RCP1.cs" />
+    <Compile Include="TemplateMethod\TemplateRCP.cs" />
+    <Compile Include="TemplateMethod\Transeunte.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
